@@ -7,7 +7,7 @@ export default class Common extends Component {
     return (
       <div>
          <section id="header" className="d-flex align-items-center">
-        <div className="container-fluid nav-bg">
+        <div className="container-fluid ">
           <div className="row">
             <div className="col-10 max-auto">
               <div className="row">
